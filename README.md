@@ -163,10 +163,3 @@ Developed a configurable and versioned workflow state machine engine in Java usi
 
 ---
 
-## 📌 Future Improvements
-
-* Concurrency control (optimistic locking)
-* External event hooks
-* Distributed workflow support
-
----
